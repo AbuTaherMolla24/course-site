@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 20px;
+    height: 200px;
+    background-image: linear-gradient(gray, yellow);
+}
+
+.kocu{
+    color: teal;
+}
